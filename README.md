@@ -2,15 +2,16 @@
 
 A flutter application for displaying training classes
 
-## Getting Started
+## Instructions to run Training App
 
-This project is a starting point for a Flutter application.
+Make sure you have flutter 2.2 and Dart 2.13.4  installed and and setup
 
-A few resources to get you started if this is your first Flutter project:
+Clone the source code from github 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Within the master branch run the command 'flutter devices' in the command line terminal 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If devices are available run the command 'flutter run' in the command line terminal
+
+This will prompt flutter to run the main.dart file and initialize the Training app 
+
+
